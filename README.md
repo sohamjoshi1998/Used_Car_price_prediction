@@ -1,2 +1,2 @@
 # Used_Car_price_prediction
-A price prediction model for used Indian cars
+A price prediction model to predict price of Exchange customer cars
